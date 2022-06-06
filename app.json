@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "H_TT",
+    "description": "H_TT",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "f10d27b3-9f28-4947-af73-25315cafb589"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考readme.md中的（5：Caddy主页配置）",
